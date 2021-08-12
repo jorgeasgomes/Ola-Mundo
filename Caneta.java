@@ -13,6 +13,7 @@ public class Caneta {
         System.out.println("Carga:" + this.carga);
         System.out.println("Uma Caneta" + this.cor);
         System.out.println(" está tampanda?"+ this.tampada);
+        System.out.println("tchau");
     }
     
     void rabiscar(){
